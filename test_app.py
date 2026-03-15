@@ -1,5 +1,6 @@
 from app import soma, subtracao
 
+
 def test_soma():
     assert soma(2,3) == 5
 
